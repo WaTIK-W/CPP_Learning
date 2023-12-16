@@ -1,4 +1,4 @@
-/**#include <iostream>
+#include <iostream>
 #include <utility>
 
 int main()
@@ -20,4 +20,4 @@ int main()
         std::swap(array[startIndex], array[smallestIndex]);
     }
     return 0;
-}*/
+}

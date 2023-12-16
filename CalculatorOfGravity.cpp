@@ -1,4 +1,4 @@
-﻿/*#include <iostream>
+﻿#include <iostream>
 #include "io.h"
 
 int getHeight()
@@ -30,4 +30,4 @@ int main()
 {
 	int height = getHeight();
 	writeHeight(height);
-}*/
+}
